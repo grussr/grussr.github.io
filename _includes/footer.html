@@ -7,10 +7,12 @@
                     <li>
                         <a href="#home">Home</a>
                     </li>
+                    {% for post in site.posts reversed %}
                     <li class="footer-menu-divider">&sdot;</li>
                     <li>
-                        <a href="#about">About</a>
+                        <a href="{{ post.category }}">{{ post.category }}</a>
                     </li>
+                    {% endfor %}
                     <li class="footer-menu-divider">&sdot;</li>
                     <li>
                         <a href="#services">Services</a>
