@@ -13,7 +13,7 @@
                     <div class="clearfix"></div>
                     <h2 class="section-heading">{{ post.title }}</h2>
                     <div class="lead">{{ post.content }}</div>
-                    {% if page.timeline %}
+                    {% if post.timeline %}
                       {% include timeline.html %}
                     {% endif %} 
                 </div>
@@ -39,7 +39,7 @@
                     <div class="clearfix"></div>
                     <h2 class="section-heading">{{ post.title }}</h2>
                     <div class="lead">{{ post.content }}</div>
-                    {% if page.timeline %}
+                    {% if post.timeline %}
                       {% include timeline.html %}
                     {% endif %} 
                 </div>
