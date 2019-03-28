@@ -1,8 +1,12 @@
 ---
 layout: default
 img: ipad.png
-category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+category: About
+title: Experience
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  I have had a passion for programming ever since I was a child.  Starting out with BASIC, and moving on to C, C++, C# and many others, I enjoy learning new languages and ways of solving problems.
+  
+  Currently, I am employed at #Wizards of the Coast# in Renton, WA.  I have worked there for the last 6 years building and maintaining websites such as (https://magic.wizards.com)[Magic the Gathering], (https://gatherer.wizards.com)[Gatherer], and (https://dnd.wizards.com)[D&D].
+  
+  Key languages and technologies: C#, Javascript, PHP, Visual Studio, Drupal.
