@@ -1,10 +1,11 @@
 ---
 layout: default
 img: dog.png
-category: Services
-title: 3D Device Mockups<br>by PSDCovers
+category: Education
+title: Education / Certifications
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+  - BS Software Engineering, [Montana Tech](http://mtech.edu) (2007)
+  - MCPD Sharepoint 2010 Developer
+  - MCTS SharePoint 2010 Application Development
+  - Security Clearance Level: Secret (Obtained 2012)
