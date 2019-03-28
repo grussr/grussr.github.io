@@ -4,6 +4,12 @@ img: phones.png
 category: Timeline
 title: Work History
 description: |
+timeline:
+  dates: 
+    - date: 2019
+      description: "Seattle Seahawks Themed Bracelet"
+    - date: 2018
+      description: "Hand quilted wrap scrap quilt"
 ---
 Wizards of the Coast, Renton, Washington (November 2013 – Present)
 Software Developer
