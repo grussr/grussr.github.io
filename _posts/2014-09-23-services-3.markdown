@@ -7,12 +7,8 @@ description: |
 timeline: 
   header: test
   dates: 
-    - date: 2018
-      description: "Seattle Seahawks Themed Bracelet"
-    - date: 2017
-      description: "Hand quilted wrap scrap quilt"    
----
-Wizards of the Coast, Renton, Washington (November 2013 – Present)
+    - date: November 2013 - Present
+      description: "Wizards of the Coast, Renton, Washington (November 2013 – Present)
 Software Developer
 Maintain consumer facing websites for all Wizards of the Coast brands using a variety of programming languages and frameworks including C#,
 VB.NET, PHP, JQuery, and PrototypeJS.
@@ -23,7 +19,11 @@ Migrated production Drupal-based websites from third party hosting to Docker con
 while maintaining availability.
 Manage production legacy systems ensuring high availability, and applying security upgrades where needed including upgrading to HTTPS.
 Write software design documentation for new software projects.
-Interface with other teams to gather and elaborate on requirements.
+Interface with other teams to gather and elaborate on requirements."
+    - date: 2017
+      description: "Hand quilted wrap scrap quilt"    
+---
+
 AltaSource Group, Kirkland, Washington (April 2013 – November 2013)
 Web Developer – Embedded Contractor with Wizards of the Coast
 Maintained XML-based Content Management System.
