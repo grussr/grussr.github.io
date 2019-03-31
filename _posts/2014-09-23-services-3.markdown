@@ -5,7 +5,7 @@ category: Timeline
 title: Work History
 description: |
 timeline: 
-  - header: test
+  header: test
   dates: 
     - a: 2018
       b: "Seattle Seahawks Themed Bracelet"
