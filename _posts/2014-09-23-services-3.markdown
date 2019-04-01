@@ -1,6 +1,5 @@
 ---
 layout: default
-img: phones.png
 category: Timeline
 title: Work History
 description: |
