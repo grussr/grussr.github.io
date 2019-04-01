@@ -12,6 +12,7 @@
   position: relative;
   transition: all 0.25s ease-in;
   width: 100%;
+  background-color: lightblue;
 }
 
 .timeline::before {
