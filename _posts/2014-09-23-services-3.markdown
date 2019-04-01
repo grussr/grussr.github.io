@@ -8,27 +8,27 @@ timeline:
   dates: 
     - date: November 2013 - Present
       description: "Wizards of the Coast
-Maintain consumer facing websites for all Wizards of the Coast brands using a variety of programming languages and frameworks including C#, VB.NET, PHP, JQuery, and PrototypeJS. 
-Lead developer for a customer facing card database and API accessed by millions of users per month performing monthly updates, bugfixes, and improvements. 
-Creator and manager of internal tool suite that saves time and reduces error rate, reducing page content production time by approximately 85%. 
-Migrated production Drupal-based websites from third party hosting to Docker containers hosted on AWS, resulting in $400k annual cost savings while maintaining availability. 
-Manage production legacy systems ensuring high availability, and applying security upgrades where needed including upgrading to HTTPS. 
-Write software design documentation for new software projects. 
-Interface with other teams to gather and elaborate on requirements."
+- Maintain consumer facing websites for all Wizards of the Coast brands using a variety of programming languages and frameworks including C#, VB.NET, PHP, JQuery, and PrototypeJS. 
+- Lead developer for a customer facing card database and API accessed by millions of users per month performing monthly updates, bugfixes, and improvements. 
+- Creator and manager of internal tool suite that saves time and reduces error rate, reducing page content production time by approximately 85%. 
+- Migrated production Drupal-based websites from third party hosting to Docker containers hosted on AWS, resulting in $400k annual cost savings while maintaining availability. 
+- Manage production legacy systems ensuring high availability, and applying security upgrades where needed including upgrading to HTTPS. 
+- Write software design documentation for new software projects. 
+- Interface with other teams to gather and elaborate on requirements."
     - date: April 2013 - November 2013
       description: "AltaSource Group *Contracted with Wizards of the Coast*
-Maintained XML-based Content Management System. 
-Added new features to sites as requested, including a full featured commenting system. 
-Created automation framework for adding localized content to Wizards websites."    
+- Maintained XML-based Content Management System. 
+- Added new features to sites as requested, including a full featured commenting system. 
+- Created automation framework for adding localized content to Wizards websites."    
     - date: April 2012 - April 2013
       description: "AMSEC LLC *Contracted with US Navy NUWC Keyport*
-Developed high quality web based applications and SharePoint sites for government customer, using C#, VB.NET, Javascript, and JQuery languages. 
-Provided support for application users as Tier 2 technical support. 
-Assisted government personnel directly with multiple projects as the contract team point of contact."    
+- Developed high quality web based applications and SharePoint sites for government customer, using C#, VB.NET, Javascript, and JQuery languages. 
+- Provided support for application users as Tier 2 technical support. 
+- Assisted government personnel directly with multiple projects as the contract team point of contact."    
     - date: April 2007 - October 2013
       description: "MSE-Tetragenics
-Maintained a multitude of software applications for a control systems suite, including developing new features, debugging, and testing, using C, C++, and Delphi. 
-Wrote ISO 9001-compliant software documentation, including requirements documents, design documents, test plans, and user documentation. 
-Provided troubleshooting and custom software development for customers."
+- Maintained a multitude of software applications for a control systems suite, including developing new features, debugging, and  testing, using C, C++, and Delphi. 
+- Wrote ISO 9001-compliant software documentation, including requirements documents, design documents, test plans, and user documentation. 
+- Provided troubleshooting and custom software development for customers."
 
 ---
