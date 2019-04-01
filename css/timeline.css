@@ -86,6 +86,7 @@
 
 .timeline .timeline-item .timeline-content p {
   font-size: 16px;
+  font-weight: normal;
   line-height: 1.4;
   margin-bottom: 0;
 }
