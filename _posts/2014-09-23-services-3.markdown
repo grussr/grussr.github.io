@@ -18,19 +18,25 @@ timeline:
   <li>Interface with other teams to gather and elaborate on requirements.</li>
   </ul>"
     - date: April 2013 - November 2013
-      description: "AltaSource Group *Contracted with Wizards of the Coast*
-- Maintained XML-based Content Management System. 
-- Added new features to sites as requested, including a full featured commenting system. 
-- Created automation framework for adding localized content to Wizards websites."    
+      description: "AltaSource Group <i>Contracted with Wizards of the Coast</i>
+<ul>
+  <li>Maintained XML-based Content Management System.</li>
+  <li>Added new features to sites as requested, including a full featured commenting system.</li> 
+  <li>Created automation framework for adding localized content to Wizards websites.</li>
+ </ul>"    
     - date: April 2012 - April 2013
-      description: "AMSEC LLC *Contracted with US Navy NUWC Keyport*
-- Developed high quality web based applications and SharePoint sites for government customer, using C#, VB.NET, Javascript, and JQuery languages. 
-- Provided support for application users as Tier 2 technical support. 
-- Assisted government personnel directly with multiple projects as the contract team point of contact."    
+      description: "AMSEC LLC <i>Contracted with US Navy NUWC Keyport</i>
+ <ul>
+    <li>Developed high quality web based applications and SharePoint sites for government customer, using C#, VB.NET, Javascript, and JQuery languages.</li> 
+  <li>Provided support for application users as Tier 2 technical support.</li>
+  <li>Assisted government personnel directly with multiple projects as the contract team point of contact.</li>
+ </ul>"    
     - date: April 2007 - October 2013
       description: "MSE-Tetragenics
-- Maintained a multitude of software applications for a control systems suite, including developing new features, debugging, and  testing, using C, C++, and Delphi. 
-- Wrote ISO 9001-compliant software documentation, including requirements documents, design documents, test plans, and user documentation. 
-- Provided troubleshooting and custom software development for customers."
+  <ul>      
+     <li>Maintained a multitude of software applications for a control systems suite, including developing new features, debugging, and testing, using C, C++, and Delphi.</li> 
+     <li>Wrote ISO 9001-compliant software documentation, including requirements documents, design documents, test plans, and user documentation.</li> 
+  <li>Provided troubleshooting and custom software development for customers.</li>
+  </ul>"
 
 ---
