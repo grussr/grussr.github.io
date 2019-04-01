@@ -8,13 +8,15 @@ timeline:
   dates: 
     - date: November 2013 - Present
       description: "Wizards of the Coast
-- Maintain consumer facing websites for all Wizards of the Coast brands using a variety of programming languages and frameworks including C#, VB.NET, PHP, JQuery, and PrototypeJS. 
-- Lead developer for a customer facing card database and API accessed by millions of users per month performing monthly updates, bugfixes, and improvements. 
-- Creator and manager of internal tool suite that saves time and reduces error rate, reducing page content production time by approximately 85%. 
-- Migrated production Drupal-based websites from third party hosting to Docker containers hosted on AWS, resulting in $400k annual cost savings while maintaining availability. 
-- Manage production legacy systems ensuring high availability, and applying security upgrades where needed including upgrading to HTTPS. 
-- Write software design documentation for new software projects. 
-- Interface with other teams to gather and elaborate on requirements."
+<ul>
+<li>Maintain consumer facing websites for all Wizards of the Coast brands using a variety of programming languages and frameworks including C#, VB.NET, PHP, JQuery, and PrototypeJS.</li>
+<li>Lead developer for a customer facing card database and API accessed by millions of users per month performing monthly updates, bugfixes, and improvements.</li>
+<li>Creator and manager of internal tool suite that saves time and reduces error rate, reducing page content production time by approximately 85%.</li>
+<li>Migrated production Drupal-based websites from third party hosting to Docker containers hosted on AWS, resulting in $400k annual cost savings while maintaining availability.</li>
+<li>Manage production legacy systems ensuring high availability, and applying security upgrades where needed including upgrading to HTTPS.</li> 
+  <li>Write software design documentation for new software projects.</li>
+  <li>Interface with other teams to gather and elaborate on requirements.</li>
+  </ul>"
     - date: April 2013 - November 2013
       description: "AltaSource Group *Contracted with Wizards of the Coast*
 - Maintained XML-based Content Management System. 
