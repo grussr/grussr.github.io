@@ -6,10 +6,7 @@ url: http://gruss.dev
 title: Ryan Gruss - Software Developer in Seattle WA
 email: ryan@gruss.dev
 author: Ryan Gruss
-description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description.
+description: Homepage for Ryan Gruss
 copyright: 'Copyright &copy; 2019 Ryan Gruss. All Rights Reserved.'
 credits: ''
 
@@ -33,5 +30,5 @@ social:
     url: https://github.com/grussr
     icon: fab fa-github
   - title: linkedin
-    url: https://www.linkedin.com/in/ryan-gruss-58552220/
+    url: https://www.linkedin.com/in/rpgruss
     icon: fab fa-linkedin

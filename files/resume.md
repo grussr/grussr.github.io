@@ -1,6 +1,6 @@
 RYAN GRUSS
 ----------
-1733A 13th Ave S Seattle, WA 98144 | 206-465-1467 _Mobile_ | ryan@gruss.dev  _Email_
+Seattle, WA
 
 #### Professional Experience:  
 **Wizards of the Coast, Renton, Washington (November 2013 – Present)**  
