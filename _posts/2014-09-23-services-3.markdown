@@ -6,7 +6,14 @@ description: |
 timeline: 
   header: test
   dates: 
-    - date: November 2013 - Present
+    - date: January 2021 - Present
+      description: "Microsoft
+<ul>
+  <li>Maintain tools used by Office Engineering</li>
+  <li>More to come later!</li>
+</ul>
+"
+    - date: November 2013 - January 2021
       description: "Wizards of the Coast
 <ul>
 <li>Maintain consumer facing websites for all Wizards of the Coast brands using a variety of programming languages and frameworks including C#, VB.NET, PHP, JQuery, and PrototypeJS.</li>
