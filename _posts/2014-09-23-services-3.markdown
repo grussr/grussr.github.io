@@ -8,9 +8,14 @@ timeline:
   dates: 
     - date: January 2021 - Present
       description: "Microsoft
-<ul>
-  <li>Maintain tools used by Office Engineering</li>
-  <li>More to come later!</li>
+<ul><li>Primary DevOps engineer for infrastructure support team, using C#, PowerShell, and React.</li>
+<li>Maintained infrastructure for hundreds of servers across on-prem and in Azure cloud leveraging Azure Portal, Azure CLI, and PowerShell.</li>
+<li>Moved applications to secure tenant in Azure, improving security by reducing attack surface. </li>
+<li>Lead developer for support ticket generation application written in C#. Responsible for code reviews, patching, and troubleshooting.</li>
+<li>Created CI/CD pipeline-based automations for VM creation, reducing engineer time by 80%.</li>
+<li>Managed build infrastructure for Office suite, used by engineers worldwide, including provisioning and after hours on-call support.</li>
+<li>Maintained multiple legacy engineering environments  by providing security updates and mapping out deprecation plans.</li>
+
 </ul>
 "
     - date: November 2013 - January 2021
