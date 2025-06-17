@@ -6,7 +6,14 @@ description: |
 timeline: 
   header: test
   dates: 
-    - date: January 2021 - Present
+    - date: January 2025 - Present
+      description: "Tech Mahindra
+<ul><li>Deploying services to Soverign Azure instances using PowerShell and Azure Portal.</li>
+<li>Documenting processes to streamline new employee onboarding.</li>
+<li>Coordinate with on-site resources in China and France to build out Azure Sync Fabric.</li>
+<li>Worked to migrate Synthetic Traffic tests to new standard test platform, improving reliability and
+reducing operation overhead.</li></ul>"
+    - date: January 2021 - December 2024
       description: "Microsoft
 <ul><li>Primary DevOps engineer for infrastructure support team, using C#, PowerShell, and React.</li>
 <li>Maintained infrastructure for hundreds of servers across on-prem and in Azure cloud leveraging Azure Portal, Azure CLI, and PowerShell.</li>
